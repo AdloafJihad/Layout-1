@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+header{
+background-color:rgba(255, 0, 0, 0.404);
+text-align: center;
+height: 100%;
+width: 100%;
+}
+.banner{
+background-color:rgba(121, 235, 136, 0.486);
+text-align: center;
+height: 400px;
+width: 100%;
+}
+.first_content{
+overflow: hidden;
+}
+.left_content{
+background-color: cornflowerblue;
+text-align: center;
+height: 150px;
+width: 50%;
+float: left;
+}
+.right_content{
+    background-color: deeppink;
+    text-align: center;
+    height: 150px;
+    width: 50%;
+    float: right;
+}
+.secound_content{
+overflow: hidden;
+}
+
+.long_content{
+background-color: coral;
+text-align: center;
+height: 100px;
+width: 70%;
+float: left;
+}
+.short_content{
+background-color: deepskyblue;
+text-align: center;
+height: 100px;
+width: 30%;
+float: right;
+}
+.clint_content{
+overflow: hidden;
+}
+.clint_a{
+    background-color: darkolivegreen;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+.clint_b{
+    background-color: darkorange;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+.clint_c{
+    background-color: dimgrey;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+.clint_d{
+    background-color: darkseagreen;
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+footer{
+    background-color: rgba(4, 47, 126, 0.267);
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
